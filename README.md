@@ -30,6 +30,8 @@ Pandas
 ## Results:
 
 
+Results in Jupyter Notebook can be found here: https://github.com/cmhume/PyBer_Analysis/blob/497a31528340133106892178f63a788bf0e2d5f9/PyBer_Challenge.ipynb
+
 ![total_rides](https://user-images.githubusercontent.com/78699521/115163692-67dff580-a05f-11eb-8fc7-e5332bfbeef0.png)
 
 
