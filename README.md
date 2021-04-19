@@ -32,6 +32,10 @@ Pandas
 
 Results in Jupyter Notebook can be found here: https://github.com/cmhume/PyBer_Analysis/blob/497a31528340133106892178f63a788bf0e2d5f9/PyBer_Challenge.ipynb
 
+
+PyBer Summary DataFrame:
+
+
 ![total_rides](https://user-images.githubusercontent.com/78699521/115163692-67dff580-a05f-11eb-8fc7-e5332bfbeef0.png)
 
 
@@ -65,10 +69,10 @@ Results in Jupyter Notebook can be found here: https://github.com/cmhume/PyBer_A
 ### Total weekly fare by city type
 
 
-![PyBer_fare_summary](https://user-images.githubusercontent.com/78699521/115163475-30247e00-a05e-11eb-9dc2-1381c292bf94.png)
-
-
 * Total weekly fares followed the pattern of total fares with urban cities having the greatest weekly fares, suburban cities the second greatest total weekly fares, and rural cities the least total weekly fares.  The fourth week in February was a high point in weekly fares(tied with the second week in March for Urban cities) for all city types over the four month period from January to April of 2019.  The first week of January had the lowest total weekly fares for urban and suburban cities, while the second week in January had the lowest total weekly fares for rural cities.  
+
+
+![PyBer_fare_summary](https://user-images.githubusercontent.com/78699521/115163475-30247e00-a05e-11eb-9dc2-1381c292bf94.png)
 
 
 # Summary:
