@@ -69,7 +69,7 @@ PyBer Summary DataFrame:
 ### Total weekly fare by city type
 
 
-* Total weekly fares followed the pattern of total fares with urban cities having the greatest weekly fares, suburban cities the second greatest total weekly fares, and rural cities the least total weekly fares.  The fourth week in February was a high point in weekly fares(tied with the second week in March for Urban cities) for all city types over the four month period from January to April of 2019.  The first week of January had the lowest total weekly fares for urban and suburban cities, while the second week in January had the lowest total weekly fares for rural cities.  
+* Total weekly fares followed the pattern of total fares with urban cities having the greatest weekly fares, suburban cities the second greatest total weekly fares, and rural cities the least total weekly fares.  The fourth week in February was a high point in weekly fares(tied with the second week in March for Urban cities) for all city types over the four month period from January to April of 2019.  The first week of January had the lowest total weekly fares for urban and suburban cities, while the second week in January had the lowest total weekly fares for rural cities.  Figure available at: https://github.com/cmhume/PyBer_Analysis/blob/e3ded26b18912ba7f0ab3a6e65404e39e3e6758d/analysis/PyBer_fare_summary.png
 
 
 ![PyBer_fare_summary](https://user-images.githubusercontent.com/78699521/115163475-30247e00-a05e-11eb-9dc2-1381c292bf94.png)
